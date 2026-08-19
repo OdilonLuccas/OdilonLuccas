@@ -29,8 +29,8 @@ Acredito que bons sistemas são construídos com documentação séria, automaç
 **Infraestrutura & Cloud**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-[![Ubuntu](https://img.shields.io/ubuntu/v/:packageName)](https://img.shields.io/debian/v/:packageName/:distribution
-)
+[[![Ubuntu](https://img.shields.io/ubuntu/v/:packageName)](https://img.shields.io/debian/v/:packageName/:distribution
+)](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
