@@ -11,9 +11,9 @@
   <a href="mailto:odilonluccas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
-  <a href=https://badges.peoplecert.org/Badge/en/2/347F443A-E524-4BDA-B1BE-8A5FF845BD8C>
+  <a href="https://badges.peoplecert.org/Badge/en/2/347F443A-E524-4BDA-B1BE-8A5FF845BD8C">
     <img src="https://img.shields.io/badge/ITIL%204-Foundation-6A0DAD?style=flat"/> </a>
-  <a href=https://share.google/PpDqnckTKyxbVQVVN>
+  <a href="https://share.google/PpDqnckTKyxbVQVVN">
   <img src="https://img.shields.io/badge/Localização-Aracaju%2C%20SE-brightgreen?style=flat&logo=googlemaps&logoColor=white"/> </a>
 </p>
 
