@@ -61,7 +61,7 @@ Utilizo este GitHub como espaço para documentar minha evolução profissional, 
 
 ![Linux](https://img.shields.io/badge/Debian-CE0056?style=flat&logo=debian&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-08a1f7?style=flat&logo=Microsoft&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 **Infraestrutura & Virtualização**
