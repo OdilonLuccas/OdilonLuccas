@@ -1,18 +1,27 @@
+# EM DESENVOLVIMENTO🏗️
+
 <h1 align="center">Olá, eu sou Odilon Luccas 👋</h1>
 
 <p align="center">
   <em>Infraestrutura · Cloud · Segurança da Informação · Linux · Open Source</em>
 </p>
 
+<!--linkedin-->
 <p align="center">
   <a href="https://www.linkedin.com/in/odilonluccas"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </a>
+    <!--E-mail-->
   <a href="mailto:odilonluccas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
+<!--Notion-->
+  <a href="https://app.notion.com/p/Biografias-35e4a261c1248077ad39d7a35e8f10d8?source=copy_link"target="_blank">
+    <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=Notion&logoColor=white"/> </a>
+<!--ITIL V4-->
   <a href="https://badges.peoplecert.org/Badge/en/2/347F443A-E524-4BDA-B1BE-8A5FF845BD8C">
     <img src="https://img.shields.io/badge/ITIL%204-Foundation-6A0DAD?style=flat"/> </a>
+<!--Aracaju/SE-->
   <a href="https://share.google/PpDqnckTKyxbVQVVN">
   <img src="https://img.shields.io/badge/Localização-Aracaju%2C%20SE-brightgreen?style=flat&logo=googlemaps&logoColor=white"/> </a>
 </p>
