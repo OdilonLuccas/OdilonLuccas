@@ -184,3 +184,4 @@ Utilizo este GitHub como espaço para documentar minha evolução profissional, 
   <sub><em>"A tecnologia muda todos os dias. O aprendizado também deve."</em></sub><br/>
   <sub>Feito com curiosidade, café e alguns commits às 3h da manhã ☕</sub>
 </p>
+---
